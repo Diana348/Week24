@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Week24/static/css/main.b6d4a352.css",
+    "main.js": "/Week24/static/js/main.f7ae57f4.js",
+    "index.html": "/Week24/index.html",
+    "main.b6d4a352.css.map": "/Week24/static/css/main.b6d4a352.css.map",
+    "main.f7ae57f4.js.map": "/Week24/static/js/main.f7ae57f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d4a352.css",
+    "static/js/main.f7ae57f4.js"
+  ]
+}
